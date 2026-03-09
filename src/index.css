@@ -1,0 +1,57 @@
+
+/* General body styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  margin: 0;
+  padding: 0;
+}
+
+/* Container spacing */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+/* Navbar styling */
+.navbar {
+  margin-bottom: 20px;
+}
+
+.navbar .navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.navbar .nav-link {
+  margin-right: 15px;
+  font-weight: 500;
+}
+
+.navbar .nav-link.active {
+  text-decoration: underline;
+}
+
+/* Buttons */
+button {
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+  color: white;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+}
+
+/* Forms */
+form {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow:
+}
